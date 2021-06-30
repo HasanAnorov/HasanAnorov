@@ -1,4 +1,4 @@
-### Hi dear 👋, I'm Hasan
+### Hi there 👋, I'm Hasan
 
 Hi, I'm Hasan Anorov, an Android Developer, who loves exploring different stuff.
 
