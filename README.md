@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Hasan
 
-Hi, I'm Hasan Anorov, an Android Developer, who loves exploring different stuff.
+Hi, I'm Hasan Anorov, an Android Developer, and cyber-security enthusiast who loves exploring different stuff.
 
 About me:
 
 - 🛠 Currently working with Kotlin, Java, Android and other technologies.
-- 💡 Looking for Internship opportunities or job as a junior android developer.
 - 📫 How to reach me: Gmail - anorovhasan@gmail.com.
                       Telegram - @anorov_hasan
 
