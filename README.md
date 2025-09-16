@@ -1,4 +1,3 @@
-### Hi there 👋, I'm Hasan
 
 # Hi there 👋, I'm Khasan Anorov
 
