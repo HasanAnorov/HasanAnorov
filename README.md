@@ -22,7 +22,24 @@ developing threat-resistant applications, and exploring advanced security soluti
 ![Cyber Engineering](https://img.shields.io/badge/Cyber%20Engineering-5A5A5A?style=flat&logo=hackthebox&logoColor=white)
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=HasanAnorov&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Hasan's GitHub Stats" />
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=HasanAnorov&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&border_color=ffffff&hide_border=false&border_radius=6"
+    alt="Hasan's GitHub Stats"
+    height="200"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAnorov&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&card_width=420&title_color=ffffff&text_color=daf7dc&bg_color=151515&border_color=ffffff&hide_border=false&border_radius=6"
+    alt="Hasan's Most Used Languages"
+    height="200"
+  />
+</p>
+
+
+
+
 
 ## 🚀 Featured Projects
 - **KanoChat** – End-to-end encrypted chat app (Kotlin + Jetpack Compose + Firebase)
