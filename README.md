@@ -47,8 +47,8 @@ developing threat-resistant applications, and exploring advanced security soluti
 ## 🌱 Currently Learning
 - Working on the above and additional cyber-related projects to build practical, hands-on skills.
 - Advanced cyber engineering and secure architecture design  
-- Cloud security (AWS, Azure) and secure DevOps practices  
 - Applied cryptography for mobile and cloud applications
+- Math and algorithms )
 - Design of Networks and Distributed Systems (USYD) – strengthening secure network design and large-scale distributed architecture.
 - Google Cybersecurity Professional Certificate – Coursera (in progress)
 Industry-recognized program covering threat analysis, security operations (SOC), and network defense.
