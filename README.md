@@ -1,7 +1,6 @@
-
 # Hi there 👋, I'm Khasan Anorov
 
-I’m a **Software Engineer** and **Cybersecurity graduate student at the University of Sydney**  
+I'm a **Software Engineer** and **Cybersecurity graduate student at the University of Sydney**  
 with a strong interest in **cyber engineering**—designing and building secure systems,  
 developing threat-resistant applications, and exploring advanced security solutions.
 
@@ -23,19 +22,10 @@ developing threat-resistant applications, and exploring advanced security soluti
 
 ## 📊 GitHub Stats
 
-
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=HasanAnorov&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&border_color=ffffff&hide_border=false&border_radius=6" alt="Hasan's GitHub Stats"/>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <!-- Most Used Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAnorov&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&card_width=420&title_color=ffffff&text_color=daf7dc&bg_color=151515&border_color=ffffff&hide_border=false&border_radius=6" alt="Hasan's Most Used Languages"/>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HasanAnorov&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&border_color=ffffff&hide_border=false&border_radius=6" width="49%"/>
+  <img alt="Hasan's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAnorov&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&card_width=420&title_color=ffffff&text_color=daf7dc&bg_color=151515&border_color=ffffff&hide_border=false&border_radius=6" width="49%"/>
+</div>
 
 ## 🚀 Featured Projects
 - **KanoMessenger** – a mobile application for local communication without using the Internet.
@@ -45,4 +35,4 @@ developing threat-resistant applications, and exploring advanced security soluti
 - Working on the above and additional cyber-related projects to build practical, hands-on skills.
 - Advanced cyber engineering and secure architecture design  
 - Applied cryptography for mobile and cloud applications
-- Math and algorithms )
+- Math and algorithms
