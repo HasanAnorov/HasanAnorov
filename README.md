@@ -37,9 +37,6 @@ developing threat-resistant applications, and exploring advanced security soluti
 </table>
 
 
-
-
-
 ## 🚀 Featured Projects
 - **KanoMessenger** – a mobile application for local communication without using the Internet.
 - **KanoRAT** – A link-logging, educational remote-access (simulated RAT) toolkit for blue-team training.
@@ -49,6 +46,3 @@ developing threat-resistant applications, and exploring advanced security soluti
 - Advanced cyber engineering and secure architecture design  
 - Applied cryptography for mobile and cloud applications
 - Math and algorithms )
-- Design of Networks and Distributed Systems (USYD) – strengthening secure network design and large-scale distributed architecture.
-- Google Cybersecurity Professional Certificate – Coursera (in progress)
-Industry-recognized program covering threat analysis, security operations (SOC), and network defense.
